@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900"><rect width="1200" height="900" fill="#32201F"/><circle cx="960" cy="170" r="300" fill="#FF7700" opacity=".16"/><circle cx="170" cy="760" r="260" fill="#FFB57C" opacity=".08"/>
+  <g transform="translate(420 120)"><rect width="360" height="660" rx="58" fill="#FFF8F3"/><rect x="22" y="22" width="316" height="616" rx="42" fill="#F5EEE9"/><rect x="115" y="42" width="130" height="18" rx="9" fill="#32201F" opacity=".16"/>
+  <rect x="52" y="105" width="256" height="140" rx="30" fill="#32201F"/><circle cx="270" cy="140" r="18" fill="#FF7700"/><rect x="74" y="150" width="118" height="17" rx="8" fill="#FFB57C"/><rect x="74" y="180" width="174" height="33" rx="12" fill="#fff" opacity=".9"/>
+  <g fill="#fff"><rect x="52" y="275" width="122" height="112" rx="24"/><rect x="186" y="275" width="122" height="112" rx="24"/><rect x="52" y="400" width="256" height="85" rx="24"/></g>
+  <g fill="#FF7700"><circle cx="85" cy="315" r="14"/><circle cx="219" cy="315" r="14"/></g><rect x="52" y="515" width="256" height="70" rx="24" fill="#FF7700"/></g>
+</svg>
